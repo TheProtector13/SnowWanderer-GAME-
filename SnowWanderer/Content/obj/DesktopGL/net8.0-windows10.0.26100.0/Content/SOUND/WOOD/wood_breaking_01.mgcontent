@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/WOOD/wood_breaking_01.ogg</SourceFile>
+  <SourceTime>2019-08-31T12:49:23+02:00</SourceTime>
+  <DestFile>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/bin/DesktopGL/Content/SOUND/WOOD/wood_breaking_01.xnb</DestFile>
+  <DestTime>2025-03-20T22:04:15.2623095+01:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
