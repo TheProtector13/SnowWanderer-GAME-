@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/STEPS/snow_step_dry-01.wav</SourceFile>
+  <SourceTime>2025-03-01T13:14:04.732792+01:00</SourceTime>
+  <DestFile>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/bin/DesktopGL/Content/SOUND/STEPS/snow_step_dry-01.xnb</DestFile>
+  <DestTime>2025-03-20T22:04:12.3623086+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

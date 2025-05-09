@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BACKGROUND/1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BACKGROUND/2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BACKGROUND/3.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BACKGROUND/4.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/S_ICE/S_ICE_ANIM1_1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/S_ICE/S_ICE_ANIM1_2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/S_ICE/S_ICE_ANIM2_1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/S_ICE/S_ICE_ANIM2_2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/S_ICE/S_ICE_DEFAULT1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/S_ICE/S_ICE_DEFAULT2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/S_ICE/S_ICE_DEFAULT3.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/S_ICE/S_ICE_DEFAULT4.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/S_ICE/S_ICE_DEFAULT5.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/SNOW/SNOW_ANIM1_1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/SNOW/SNOW_ANIM1_2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/SNOW/SNOW_ANIM2_1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/SNOW/SNOW_ANIM2_2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/SNOW/SNOW_DEFAULT.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/SNOW/SNOW_DEFAULT2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/SNOW/SNOW_DEFAULT3.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/SNOW/SNOW_DEFAULT4.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/BLOCKS/SNOW/SNOW_DEFAULT5.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_4/Explosion_1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_4/Explosion_2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_4/Explosion_3.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_4/Explosion_4.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_4/Explosion_5.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_4/Explosion_6.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_10.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_3.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_4.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_5.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_6.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_7.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_8.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/EFFECTS/Explosion_5/Explosion_9.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/Bar.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/BIG_BUTTON_1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/BIG_BUTTON_2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/Button_NOK_1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/Button_NOK_2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/Button_OK_1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/Button_OK_2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/Add_Button.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/Add_Button2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/FOR_BOX.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/FOR.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/IF_BOX.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/IF.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/Num_Box.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/OPERATION.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/WHILE_BOX.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/CONTROL/WHILE.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/default_MENU.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/MENU/Slider.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_000.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_001.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_002.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_003.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_004.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_005.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_006.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_007.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_008.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_009.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_010.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_011.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_012.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_013.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Dying/0_Golem_Dying_014.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_000.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_001.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_002.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_003.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_004.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_005.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_006.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_007.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_008.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_009.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_010.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_011.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_012.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_013.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_014.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_015.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_016.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_017.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_000.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_001.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_002.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_003.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_004.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_005.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_006.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_007.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_008.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_009.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_010.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_011.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_012.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_013.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_014.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_015.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_016.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_017.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_018.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_019.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_020.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_021.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_022.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_1/Walking/0_Golem_Walking_023.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_000.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_001.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_002.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_003.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_004.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_005.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_006.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_007.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_008.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_009.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_010.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_011.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_012.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_013.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Dying/0_Golem_Dying_014.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_000.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_001.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_002.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_003.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_004.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_005.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_006.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_007.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_008.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_009.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_010.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_011.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_012.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_013.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_014.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_015.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_016.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_017.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_000.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_001.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_002.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_003.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_004.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_005.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_006.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_007.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_008.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_009.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_010.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_011.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_012.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_013.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_014.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_015.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_016.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_017.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_018.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_019.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_020.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_021.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_022.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/NPCS/Golem_2/Walking/0_Golem_Walking_023.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/camp.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/stick.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/tile01.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/tile02.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/tile03.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/tile04.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/tile05.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/tile06.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/tile07.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/OBJECTIVES/tile08.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/PICKUP/tile01.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/PICKUP/tile02.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/PICKUP/tile03.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/PICKUP/tile04.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/PICKUP/tile05.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/PICKUP/tile06.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/PICKUP/tile07.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/PICKUP/tile08.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKDOWN/tile01.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKDOWN/tile02.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKDOWN/tile03.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKDOWN/tile04.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKDOWN/tile05.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKDOWN/tile06.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKDOWN/tile07.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKDOWN/tile08.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKDOWN/tile09.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKLEFT/tile01.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKLEFT/tile02.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKLEFT/tile03.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKLEFT/tile04.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKLEFT/tile05.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKLEFT/tile06.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKLEFT/tile07.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKLEFT/tile08.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKLEFT/tile09.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKRIGHT/tile01.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKRIGHT/tile02.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKRIGHT/tile03.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKRIGHT/tile04.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKRIGHT/tile05.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKRIGHT/tile06.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKRIGHT/tile07.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKRIGHT/tile08.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKRIGHT/tile09.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKUP/tile01.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKUP/tile02.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKUP/tile03.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKUP/tile04.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKUP/tile05.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKUP/tile06.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKUP/tile07.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKUP/tile08.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/PLAYER/WALKUP/tile09.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/Snow_ruins1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/Snow_ruins2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/Snow_ruins3.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/Snow_ruins4.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/Snow_ruins5.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/White_ruins1.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/White_ruins2.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/White_ruins3.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/White_ruins4.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/RUINS/White_ruins5.png</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/BGMUSIC/GoOn.mp3</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/BGMUSIC/HB.mp3</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/ROCK/rock_breaking.ogg</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/ROCK/rock_falling.ogg</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/SFX/big_punch.wav</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/SFX/blub_hurt.wav</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/SFX/blub_hurt2.wav</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/STEPS/snow_step_dry-01.wav</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/STEPS/snow_step_dry-02.wav</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/STEPS/snow_step_dry-03.wav</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/STEPS/snow_step_dry-04.wav</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/WIND/WIND.wav</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/WOOD/wood_breaking_01.ogg</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/WOOD/wood_breaking_02.ogg</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/WOOD/wood_falling_01.ogg</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/../../ASSETS/SOUND/WOOD/wood_falling_02.ogg</File>
+    <File>E:/documents/tanulás/Online Oktatás/Fősuli/Oktatási szoftver fej/SnowWanderer/SnowWanderer/Content/FONTS/File.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>BACKGROUND/1.png</File>
+    <File>BACKGROUND/2.png</File>
+    <File>BACKGROUND/3.png</File>
+    <File>BACKGROUND/4.png</File>
+    <File>BLOCKS/S_ICE/S_ICE_ANIM1_1.png</File>
+    <File>BLOCKS/S_ICE/S_ICE_ANIM1_2.png</File>
+    <File>BLOCKS/S_ICE/S_ICE_ANIM2_1.png</File>
+    <File>BLOCKS/S_ICE/S_ICE_ANIM2_2.png</File>
+    <File>BLOCKS/S_ICE/S_ICE_DEFAULT1.png</File>
+    <File>BLOCKS/S_ICE/S_ICE_DEFAULT2.png</File>
+    <File>BLOCKS/S_ICE/S_ICE_DEFAULT3.png</File>
+    <File>BLOCKS/S_ICE/S_ICE_DEFAULT4.png</File>
+    <File>BLOCKS/S_ICE/S_ICE_DEFAULT5.png</File>
+    <File>BLOCKS/SNOW/SNOW_ANIM1_1.png</File>
+    <File>BLOCKS/SNOW/SNOW_ANIM1_2.png</File>
+    <File>BLOCKS/SNOW/SNOW_ANIM2_1.png</File>
+    <File>BLOCKS/SNOW/SNOW_ANIM2_2.png</File>
+    <File>BLOCKS/SNOW/SNOW_DEFAULT.png</File>
+    <File>BLOCKS/SNOW/SNOW_DEFAULT2.png</File>
+    <File>BLOCKS/SNOW/SNOW_DEFAULT3.png</File>
+    <File>BLOCKS/SNOW/SNOW_DEFAULT4.png</File>
+    <File>BLOCKS/SNOW/SNOW_DEFAULT5.png</File>
+    <File>EFFECTS/Explosion_4/Explosion_1.png</File>
+    <File>EFFECTS/Explosion_4/Explosion_2.png</File>
+    <File>EFFECTS/Explosion_4/Explosion_3.png</File>
+    <File>EFFECTS/Explosion_4/Explosion_4.png</File>
+    <File>EFFECTS/Explosion_4/Explosion_5.png</File>
+    <File>EFFECTS/Explosion_4/Explosion_6.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_1.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_10.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_2.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_3.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_4.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_5.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_6.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_7.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_8.png</File>
+    <File>EFFECTS/Explosion_5/Explosion_9.png</File>
+    <File>MENU/Bar.png</File>
+    <File>MENU/BIG_BUTTON_1.png</File>
+    <File>MENU/BIG_BUTTON_2.png</File>
+    <File>MENU/Button_NOK_1.png</File>
+    <File>MENU/Button_NOK_2.png</File>
+    <File>MENU/Button_OK_1.png</File>
+    <File>MENU/Button_OK_2.png</File>
+    <File>MENU/CONTROL/Add_Button.png</File>
+    <File>MENU/CONTROL/Add_Button2.png</File>
+    <File>MENU/CONTROL/FOR_BOX.png</File>
+    <File>MENU/CONTROL/FOR.png</File>
+    <File>MENU/CONTROL/IF_BOX.png</File>
+    <File>MENU/CONTROL/IF.png</File>
+    <File>MENU/CONTROL/Num_Box.png</File>
+    <File>MENU/CONTROL/OPERATION.png</File>
+    <File>MENU/CONTROL/WHILE_BOX.png</File>
+    <File>MENU/CONTROL/WHILE.png</File>
+    <File>MENU/default_MENU.png</File>
+    <File>MENU/Slider.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_000.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_001.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_002.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_003.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_004.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_005.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_006.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_007.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_008.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_009.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_010.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_011.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_012.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_013.png</File>
+    <File>NPCS/Golem_1/Dying/0_Golem_Dying_014.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_000.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_001.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_002.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_003.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_004.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_005.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_006.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_007.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_008.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_009.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_010.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_011.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_012.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_013.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_014.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_015.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_016.png</File>
+    <File>NPCS/Golem_1/Idle Blinking/0_Golem_Idle Blinking_017.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_000.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_001.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_002.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_003.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_004.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_005.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_006.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_007.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_008.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_009.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_010.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_011.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_012.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_013.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_014.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_015.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_016.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_017.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_018.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_019.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_020.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_021.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_022.png</File>
+    <File>NPCS/Golem_1/Walking/0_Golem_Walking_023.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_000.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_001.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_002.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_003.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_004.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_005.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_006.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_007.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_008.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_009.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_010.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_011.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_012.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_013.png</File>
+    <File>NPCS/Golem_2/Dying/0_Golem_Dying_014.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_000.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_001.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_002.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_003.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_004.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_005.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_006.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_007.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_008.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_009.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_010.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_011.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_012.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_013.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_014.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_015.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_016.png</File>
+    <File>NPCS/Golem_2/Idle Blinking/0_Golem_Idle Blinking_017.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_000.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_001.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_002.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_003.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_004.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_005.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_006.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_007.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_008.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_009.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_010.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_011.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_012.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_013.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_014.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_015.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_016.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_017.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_018.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_019.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_020.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_021.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_022.png</File>
+    <File>NPCS/Golem_2/Walking/0_Golem_Walking_023.png</File>
+    <File>OBJECTIVES/camp.png</File>
+    <File>OBJECTIVES/stick.png</File>
+    <File>OBJECTIVES/tile01.png</File>
+    <File>OBJECTIVES/tile02.png</File>
+    <File>OBJECTIVES/tile03.png</File>
+    <File>OBJECTIVES/tile04.png</File>
+    <File>OBJECTIVES/tile05.png</File>
+    <File>OBJECTIVES/tile06.png</File>
+    <File>OBJECTIVES/tile07.png</File>
+    <File>OBJECTIVES/tile08.png</File>
+    <File>PLAYER/PICKUP/tile01.png</File>
+    <File>PLAYER/PICKUP/tile02.png</File>
+    <File>PLAYER/PICKUP/tile03.png</File>
+    <File>PLAYER/PICKUP/tile04.png</File>
+    <File>PLAYER/PICKUP/tile05.png</File>
+    <File>PLAYER/PICKUP/tile06.png</File>
+    <File>PLAYER/PICKUP/tile07.png</File>
+    <File>PLAYER/PICKUP/tile08.png</File>
+    <File>PLAYER/WALKDOWN/tile01.png</File>
+    <File>PLAYER/WALKDOWN/tile02.png</File>
+    <File>PLAYER/WALKDOWN/tile03.png</File>
+    <File>PLAYER/WALKDOWN/tile04.png</File>
+    <File>PLAYER/WALKDOWN/tile05.png</File>
+    <File>PLAYER/WALKDOWN/tile06.png</File>
+    <File>PLAYER/WALKDOWN/tile07.png</File>
+    <File>PLAYER/WALKDOWN/tile08.png</File>
+    <File>PLAYER/WALKDOWN/tile09.png</File>
+    <File>PLAYER/WALKLEFT/tile01.png</File>
+    <File>PLAYER/WALKLEFT/tile02.png</File>
+    <File>PLAYER/WALKLEFT/tile03.png</File>
+    <File>PLAYER/WALKLEFT/tile04.png</File>
+    <File>PLAYER/WALKLEFT/tile05.png</File>
+    <File>PLAYER/WALKLEFT/tile06.png</File>
+    <File>PLAYER/WALKLEFT/tile07.png</File>
+    <File>PLAYER/WALKLEFT/tile08.png</File>
+    <File>PLAYER/WALKLEFT/tile09.png</File>
+    <File>PLAYER/WALKRIGHT/tile01.png</File>
+    <File>PLAYER/WALKRIGHT/tile02.png</File>
+    <File>PLAYER/WALKRIGHT/tile03.png</File>
+    <File>PLAYER/WALKRIGHT/tile04.png</File>
+    <File>PLAYER/WALKRIGHT/tile05.png</File>
+    <File>PLAYER/WALKRIGHT/tile06.png</File>
+    <File>PLAYER/WALKRIGHT/tile07.png</File>
+    <File>PLAYER/WALKRIGHT/tile08.png</File>
+    <File>PLAYER/WALKRIGHT/tile09.png</File>
+    <File>PLAYER/WALKUP/tile01.png</File>
+    <File>PLAYER/WALKUP/tile02.png</File>
+    <File>PLAYER/WALKUP/tile03.png</File>
+    <File>PLAYER/WALKUP/tile04.png</File>
+    <File>PLAYER/WALKUP/tile05.png</File>
+    <File>PLAYER/WALKUP/tile06.png</File>
+    <File>PLAYER/WALKUP/tile07.png</File>
+    <File>PLAYER/WALKUP/tile08.png</File>
+    <File>PLAYER/WALKUP/tile09.png</File>
+    <File>RUINS/Snow_ruins1.png</File>
+    <File>RUINS/Snow_ruins2.png</File>
+    <File>RUINS/Snow_ruins3.png</File>
+    <File>RUINS/Snow_ruins4.png</File>
+    <File>RUINS/Snow_ruins5.png</File>
+    <File>RUINS/White_ruins1.png</File>
+    <File>RUINS/White_ruins2.png</File>
+    <File>RUINS/White_ruins3.png</File>
+    <File>RUINS/White_ruins4.png</File>
+    <File>RUINS/White_ruins5.png</File>
+    <File>SOUND/WIND/GoOn.mp3</File>
+    <File>SOUND/WIND/HB.mp3</File>
+    <File>SOUND/ROCK/rock_breaking.ogg</File>
+    <File>SOUND/ROCK/rock_falling.ogg</File>
+    <File>SOUND/SFX/big_punch.wav</File>
+    <File>SOUND/SFX/blub_hurt.wav</File>
+    <File>SOUND/SFX/blub_hurt2.wav</File>
+    <File>SOUND/STEPS/snow_step_dry-01.wav</File>
+    <File>SOUND/STEPS/snow_step_dry-02.wav</File>
+    <File>SOUND/STEPS/snow_step_dry-03.wav</File>
+    <File>SOUND/STEPS/snow_step_dry-04.wav</File>
+    <File>SOUND/WIND/WIND.wav</File>
+    <File>SOUND/WOOD/wood_breaking_01.ogg</File>
+    <File>SOUND/WOOD/wood_breaking_02.ogg</File>
+    <File>SOUND/WOOD/wood_falling_01.ogg</File>
+    <File>SOUND/WOOD/wood_falling_02.ogg</File>
+    <File>FONTS/Ariel.spritefont</File>
+  </DestFiles>
+</SourceFileCollection>

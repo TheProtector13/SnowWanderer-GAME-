@@ -1,0 +1,304 @@
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BACKGROUND\1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BACKGROUND\2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BACKGROUND\3.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BACKGROUND\4.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\SNOW\SNOW_ANIM1_1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\SNOW\SNOW_ANIM1_2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\SNOW\SNOW_ANIM2_1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\SNOW\SNOW_ANIM2_2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\SNOW\SNOW_DEFAULT.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\SNOW\SNOW_DEFAULT2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\SNOW\SNOW_DEFAULT3.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\SNOW\SNOW_DEFAULT4.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\SNOW\SNOW_DEFAULT5.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\S_ICE\S_ICE_ANIM1_1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\S_ICE\S_ICE_ANIM1_2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\S_ICE\S_ICE_ANIM2_1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\S_ICE\S_ICE_ANIM2_2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\S_ICE\S_ICE_DEFAULT1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\S_ICE\S_ICE_DEFAULT2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\S_ICE\S_ICE_DEFAULT3.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\S_ICE\S_ICE_DEFAULT4.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\BLOCKS\S_ICE\S_ICE_DEFAULT5.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_4\Explosion_1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_4\Explosion_2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_4\Explosion_3.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_4\Explosion_4.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_4\Explosion_5.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_4\Explosion_6.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_10.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_3.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_4.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_5.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_6.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_7.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_8.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\EFFECTS\Explosion_5\Explosion_9.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\FONTS\Ariel.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\Bar.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\BIG_BUTTON_1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\BIG_BUTTON_2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\Button_NOK_1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\Button_NOK_2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\Button_OK_1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\Button_OK_2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\Add_Button.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\Add_Button2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\FOR.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\FOR_BOX.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\IF.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\IF_BOX.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\Num_Box.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\OPERATION.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\WHILE.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\CONTROL\WHILE_BOX.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\default_MENU.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\MENU\Slider.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_000.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_001.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_002.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_003.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_004.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_005.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_006.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_007.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_008.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_009.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_010.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_011.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_012.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_013.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Dying\0_Golem_Dying_014.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_000.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_001.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_002.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_003.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_004.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_005.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_006.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_007.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_008.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_009.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_010.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_011.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_012.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_013.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_014.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_015.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_016.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Idle Blinking\0_Golem_Idle Blinking_017.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_000.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_001.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_002.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_003.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_004.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_005.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_006.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_007.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_008.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_009.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_010.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_011.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_012.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_013.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_014.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_015.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_016.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_017.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_018.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_019.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_020.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_021.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_022.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_1\Walking\0_Golem_Walking_023.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_000.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_001.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_002.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_003.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_004.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_005.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_006.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_007.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_008.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_009.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_010.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_011.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_012.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_013.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Dying\0_Golem_Dying_014.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_000.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_001.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_002.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_003.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_004.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_005.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_006.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_007.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_008.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_009.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_010.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_011.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_012.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_013.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_014.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_015.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_016.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Idle Blinking\0_Golem_Idle Blinking_017.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_000.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_001.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_002.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_003.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_004.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_005.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_006.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_007.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_008.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_009.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_010.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_011.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_012.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_013.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_014.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_015.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_016.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_017.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_018.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_019.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_020.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_021.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_022.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\NPCS\Golem_2\Walking\0_Golem_Walking_023.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\camp.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\stick.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\tile01.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\tile02.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\tile03.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\tile04.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\tile05.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\tile06.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\tile07.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\OBJECTIVES\tile08.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\PICKUP\tile01.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\PICKUP\tile02.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\PICKUP\tile03.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\PICKUP\tile04.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\PICKUP\tile05.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\PICKUP\tile06.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\PICKUP\tile07.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\PICKUP\tile08.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKDOWN\tile01.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKDOWN\tile02.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKDOWN\tile03.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKDOWN\tile04.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKDOWN\tile05.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKDOWN\tile06.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKDOWN\tile07.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKDOWN\tile08.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKDOWN\tile09.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKLEFT\tile01.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKLEFT\tile02.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKLEFT\tile03.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKLEFT\tile04.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKLEFT\tile05.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKLEFT\tile06.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKLEFT\tile07.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKLEFT\tile08.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKLEFT\tile09.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKRIGHT\tile01.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKRIGHT\tile02.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKRIGHT\tile03.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKRIGHT\tile04.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKRIGHT\tile05.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKRIGHT\tile06.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKRIGHT\tile07.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKRIGHT\tile08.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKRIGHT\tile09.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKUP\tile01.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKUP\tile02.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKUP\tile03.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKUP\tile04.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKUP\tile05.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKUP\tile06.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKUP\tile07.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKUP\tile08.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\PLAYER\WALKUP\tile09.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\Snow_ruins1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\Snow_ruins2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\Snow_ruins3.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\Snow_ruins4.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\Snow_ruins5.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\White_ruins1.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\White_ruins2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\White_ruins3.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\White_ruins4.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\RUINS\White_ruins5.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\BGMUSIC\GoOn.ogg
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\BGMUSIC\GoOn.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\BGMUSIC\HB.ogg
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\BGMUSIC\HB.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\ROCK\rock_breaking.ogg
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\ROCK\rock_breaking.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\ROCK\rock_falling.ogg
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\ROCK\rock_falling.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\SFX\big_punch.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\SFX\blub_hurt.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\SFX\blub_hurt2.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\STEPS\snow_step_dry-01.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\STEPS\snow_step_dry-02.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\STEPS\snow_step_dry-03.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\STEPS\snow_step_dry-04.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WIND\GoOn.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WIND\HB.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WIND\WIND.ogg
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WIND\WIND.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WOOD\wood_breaking_01.ogg
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WOOD\wood_breaking_01.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WOOD\wood_breaking_02.ogg
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WOOD\wood_breaking_02.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WOOD\wood_falling_01.ogg
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WOOD\wood_falling_01.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WOOD\wood_falling_02.ogg
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\SOUND\WOOD\wood_falling_02.xnb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\SnowWanderer.exe
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Content\FONTS\Roboto-Bold.ttf
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\LEVELS\1.dat
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\LEVELS\2.dat
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\LEVELS\3.dat
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\LEVELS\4.dat
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\LEVELS\5.dat
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\LEVELS\6.dat
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\SnowWanderer.deps.json
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\SnowWanderer.runtimeconfig.json
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\SnowWanderer.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\SnowWanderer.pdb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\MonoGame.Framework.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\NVorbis.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\System.IO.Hashing.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\android-arm\native\libopenal.so
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\android-arm64\native\libopenal.so
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\android-x64\native\libopenal.so
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\android-x86\native\libopenal.so
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\ios-arm64\native\libopenal.dylib
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\iossimulator-x64\native\libopenal.dylib
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\linux-x64\native\libopenal.so
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\osx\native\libopenal.dylib
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\openal.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\SDL2.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\bin\Release\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\SnowWanderer.csproj.AssemblyReference.cache
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\SnowWanderer.GeneratedMSBuildEditorConfig.editorconfig
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\SnowWanderer.AssemblyInfoInputs.cache
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\SnowWanderer.AssemblyInfo.cs
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\SnowWanderer.csproj.CoreCompileInputs.cache
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\SnowWand.E4CE84FC.Up2Date
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\SnowWanderer.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\refint\SnowWanderer.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\SnowWanderer.pdb
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\SnowWanderer.genruntimeconfig.cache
+E:\documents\tanulás\Online Oktatás\Fősuli\Oktatási szoftver fej\SnowWanderer\SnowWanderer\obj\Release\net8.0-windows10.0.26100.0\ref\SnowWanderer.dll
